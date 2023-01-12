@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Polylinje
+comment1.params=
+comment1.target=Polylinje()
+comment10.params=horn
+comment10.target=void\ laggTill(Punkt)
+comment11.params=horn\ hornNamn
+comment11.target=void\ laggTillFramfor(Punkt,\ java.lang.String)
+comment12.params=hornNamn
+comment12.target=void\ taBort(java.lang.String)
+comment2.params=horn
+comment2.target=Polylinje(Punkt[])
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=Punkt[]\ getHorn()
+comment5.params=
+comment5.target=java.lang.String\ getFarg()
+comment6.params=
+comment6.target=int\ getBredd()
+comment7.params=farg
+comment7.target=void\ setFarg(java.lang.String)
+comment8.params=bredd
+comment8.target=void\ setBredd(int)
+comment9.params=
+comment9.target=double\ langd()
+numComments=13
