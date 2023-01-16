@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ shortestYellowV()
+comment3.params=
+comment3.target=void\ shortestYellowN()
+comment4.params=
+comment4.target=void\ shortestYellowNV()
+comment5.params=polylines
+comment5.target=Polyline\ shortestYellow(Polyline[])
+numComments=6

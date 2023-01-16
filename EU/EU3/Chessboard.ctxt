@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Chessboard
+comment1.params=
+comment1.target=Chessboard()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=row\ column
+comment3.target=boolean\ isValidField(char,\ byte)
+comment4.params=row
+comment4.target=char\ toFieldR(char)
+comment5.params=row
+comment5.target=char\ toFieldR(int)
+comment6.params=column
+comment6.target=byte\ toFieldC(byte)
+comment7.params=column
+comment7.target=byte\ toFieldC(int)
+comment8.params=row\ column
+comment8.target=boolean\ isValidField(char,\ int)
+numComments=9

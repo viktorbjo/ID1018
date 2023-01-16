@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Polyline
+comment1.params=
+comment1.target=Point[]\ getVertices()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=java.util.Iterator\ iterator()
+comment2.params=
+comment2.target=java.lang.String\ getColour()
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=
+comment4.target=double\ length()
+comment5.params=colour
+comment5.target=void\ setColour(java.lang.String)
+comment6.params=width
+comment6.target=void\ setWidth(int)
+comment7.params=vertex
+comment7.target=void\ add(Point)
+comment8.params=vertex\ vertexName
+comment8.target=void\ insertBefore(Point,\ java.lang.String)
+comment9.params=vertexName
+comment9.target=void\ remove(java.lang.String)
+numComments=12
