@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Punkt
+comment1.params=a\ x\ y
+comment1.target=Punkt(java.lang.String,\ int,\ int)
+comment10.params=x
+comment10.target=void\ setX(int)
+comment11.params=y
+comment11.target=void\ setY(int)
+comment2.params=p
+comment2.target=Punkt(Punkt)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=p
+comment4.target=boolean\ equals(Punkt)
+comment5.params=
+comment5.target=double\ avstand()
+comment6.params=p
+comment6.target=double\ avstand(Punkt)
+comment7.params=
+comment7.target=java.lang.String\ getNamn()
+comment8.params=
+comment8.target=int\ getX()
+comment9.params=
+comment9.target=int\ getY()
+numComments=12

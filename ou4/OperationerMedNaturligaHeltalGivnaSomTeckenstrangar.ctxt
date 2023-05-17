@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OperationerMedNaturligaHeltalGivnaSomTeckenstrangar
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tal1\ tal2
+comment2.target=java.lang.String\ addera(java.lang.String,\ java.lang.String)
+comment3.params=tal1\ tal2
+comment3.target=java.lang.String\ subtrahera(java.lang.String,\ java.lang.String)
+comment4.params=tal1\ tal2\ resultat\ operator
+comment4.target=void\ visa(java.lang.String,\ java.lang.String,\ java.lang.String,\ char)
+comment5.params=s\ antal
+comment5.target=java.lang.String\ sattLen(java.lang.String,\ int)
+numComments=6

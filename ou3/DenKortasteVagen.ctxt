@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DenKortasteVagen
+comment1.params=distance1\ distance2\ distance3
+comment1.target=int[]\ mellanstationer(double[],\ double[][],\ double[])
+comment2.params=distance1\ distance2\ distance3
+comment2.target=double\ langd(double[],\ double[][],\ double[])
+numComments=3
